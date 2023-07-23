@@ -90,7 +90,7 @@ $ npm run start
 As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Website**  ([React](https://reactjs.org/)  +  [JavaScript](https://www.javascript.com/))
-> Veja o arquivo  [package.json]()
+> Veja o arquivo  [package.json](https://github.com/Marcelo-Siriaki/memory-game/blob/160785dcd59cf72de0683fac0929880cd3a68ed8/package.json)
 -   Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo](https://www.figma.com/file/JPQXomZFaNQ5EDZc83IiyA/figma?type=design&node-id=0-1&mode=design&t=nsYNiQ5dCCq5Jx5n-0)**
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
 -   Ícones:  **[Feather Icons](https://feathericons.com/)**,  **[Font Awesome](https://fontawesome.com/)**
