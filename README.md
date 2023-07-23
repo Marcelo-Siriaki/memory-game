@@ -7,18 +7,17 @@
 </p>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-layout">Layout</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
- <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#sobre">Sobre</a> •
+ <a href="#funcionalidades">Funcionalidades</a> •
+ <a href="#layout">Layout</a> • 
+ <a href="#como-executar">Como executar</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#como-contribuir">Como contribuir</a> • 
+ <a href="#autor">Autor</a> • 
 </p>
 
 
-## 💻 Sobre o projeto 
+## 💻 Sobre o projeto <p id="sobre"/>
 
 📄 É um simples jogo da memória, feito enquanto eu aprendia "Estados" em React.js
 
@@ -27,7 +26,7 @@ Projeto desenvolvido no curso de  [Desenvolvimento de Software](https://cubos.ac
 
 ---
 
-## ⚙️ Funcionalidade
+## ⚙️ Funcionalidade <p id="funcionalidades"/>
 
 - [x] Funcionalidade 1: Ao clicar sobre uma das cartas, esta será virada. Ao clicar numa segunda carta, caso ambas sejam idênticas, elas desaparecerão da tela. Caso sejam diferentes, serão desviradas novamente.
 - [x] Funcionalidade 2: Ao clicar no botão "Reset", o jogo recomeça.
@@ -35,7 +34,7 @@ Projeto desenvolvido no curso de  [Desenvolvimento de Software](https://cubos.ac
 
 ---
 
-## 🎨 Layout
+## 🎨 Layout <p id="layout"/>
 
 O layout da aplicação está disponível no Figma:
 
@@ -52,7 +51,7 @@ O layout da aplicação está disponível no Figma:
 
 ---
 
-## 🛣️ Como executar o projeto
+## 🛣️ Como executar o projeto <p id="como-executar"/>
 
 Este projeto é apenas de Frontend (pasta web).
 
@@ -85,7 +84,7 @@ $ npm run start
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias <p id="tecnologias"/>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -99,7 +98,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 💪 Como contribuir para o projeto
+## 💪 Como contribuir para o projeto <p id="como-contribuir"/>
 
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
@@ -109,7 +108,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 🧙‍♂️ Autor
+## 🧙‍♂️ Autor <p id="autor"/>
 
 <a href="https://www.linkedin.com/in/msiriaki/">
  <img style="border-radius: 50%;" src="./assets/Marcelo profile.jpg" width="100px;" alt=""/>
@@ -119,4 +118,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 [Entre em contato!](https://www.linkedin.com/in/msiriaki/)
-
