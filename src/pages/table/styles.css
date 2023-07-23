@@ -1,0 +1,27 @@
+.table-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 32px;
+
+    width: 1120px;
+    margin: 0 auto;
+}
+
+.card {
+    width: 136px;
+    height: 236px;
+    border-radius: 10px;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: lightgray;
+    background-position: 50%;
+
+    cursor: pointer;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
