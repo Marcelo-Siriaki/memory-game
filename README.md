@@ -46,7 +46,7 @@ O layout da aplicação está disponível no Figma:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Memory-Game" title="Memory-Game" src="assets/memory-game.png" width="400px">
+  <img alt="Memory-Game" title="Memory-Game" src="./src/assets/memory-game.png" width="400px">
 </p>
 
 ---
@@ -111,10 +111,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🧙‍♂️ Autor <p id="autor"/>
 
 <a href="https://www.linkedin.com/in/msiriaki/">
- <img style="border-radius: 50%;" src="./assets/Marcelo profile.jpg" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="./src/assets/Marcelo profile.jpg" width="100px;" alt=""/>
  <br />
  <sub><b>Marcelo Siriaki Rodrigues</b></sub></a>
  <br />
 
 ---
 [Entre em contato!](https://www.linkedin.com/in/msiriaki/)
+
